@@ -4,6 +4,8 @@ vector_pair NTPSERVERS = {
     {"NTP Pool - Main", "pool.ntp.org"},
     {"Cloudflare", "time.cloudflare.com"},
     {"Google", "time.google.com"},
+    {"Microsoft", "time.windows.com"},
+    {"Facebook", "time.facebook.com"},
     {"NIST - Main", "time.nist.gov"},
     {"NTP Pool - Africa", "africa.pool.ntp.org"},
     {"NTP Pool - Asia", "asia.pool.ntp.org"},
